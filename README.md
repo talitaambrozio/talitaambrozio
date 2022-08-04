@@ -1,4 +1,4 @@
-### Oi, eu sou a Talita 👋
+### Hi, I'm Talita 👋
 
 
 - 🌱 I’m currently learning Java
