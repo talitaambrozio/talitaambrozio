@@ -12,8 +12,8 @@
 
 <div> 
   
-  
- <a href="discord.gg/Almeidatalita#3011" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   
+ <a href="https://discord.gg/Almeidatalita#3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Almeidatalita#3011" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/talita-ambrozio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
