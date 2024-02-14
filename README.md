@@ -6,6 +6,8 @@
 
 ![Talita's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitaambrozio&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitaambrozio&layout=compact&langs_count=7&theme=dracula)](https://github.com/talitaambrozio/github-readme-stats)
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
